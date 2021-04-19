@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.Calculadora</groupId>
+  <artifactId>Calculadora-Maven</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>CalcuMaven</name>
+  <description>Calculadora con implementación de Maven </description>
+
+  <properties>
+  	<maven.compiler.sources>1.8</maven.compiler.sources>
+  	<maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+  
+ <dependencies>
+	<!-- https://mvnrepository.com/artifact/clojure-interop/java.awt 
+	<dependency>
+    	<groupId>clojure-interop</groupId>
+    	<artifactId>java.awt</artifactId>
+    	<version>1.0.2</version>
+	</dependency> -->
+	
+
+ 
+ </dependencies>
+
+</project>
